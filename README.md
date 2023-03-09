@@ -8,13 +8,13 @@ Integrantes del grupo: Lidia Velicia (@lidia-veli); Ana García (@anagarciasaiz)
 
 En el repositorio se incluyen:
     
-    - Un PDF con el marketing del producto realizado.
+    1. Un PDF con el marketing del producto realizado.
     
-    - Una carpeta denominada "FIGMA" con los distintos mapas de la página web (Mapa de Navegación; Flujograma; Mapa de Arquitectura) tanto en archivo .pdf como .jam.
+    2. Una carpeta denominada "FIGMA" con los distintos mapas de la página web (Mapa de Navegación; Flujograma; Mapa de Arquitectura) tanto en archivo .pdf como .jam.
     
-    -  Una carpeta denominada "VIDEO" con un video resumen sobre el pdf principal.
+    3.  Una carpeta denominada "VIDEO" con un video resumen sobre el pdf principal.
     
-    - Una carpeta con el enunciado del ejercicio.
+    4. Una carpeta con el enunciado del ejercicio.
 
 **Introducción**
 
