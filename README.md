@@ -1,4 +1,4 @@
-# Fase O: Análisis del Entorno
+# Fase 0: Análisis del Entorno
 
 Link del repositorio: https://github.com/cardiocheck/fase_0.git
 
