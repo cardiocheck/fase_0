@@ -1,10 +1,12 @@
 # Fase 0: Análisis del Entorno
 
-Link del repositorio: https://github.com/cardiocheck/fase_0.git
+Link del repositorio: https://github.com/cardiocheck/fase_0.git  
+  
+Link vídeo presentación proyecto: https://youtu.be/i-aogvJ7DUk
 
-Integrantes del grupo: Lidia Velicia (@lidia-veli); Ana García (@anagarciasaiz); Lucia Mielgo (@lmiel); Jone Vega del Río (@JoneVdr); María González (@mgonzalz)
+***Integrantes del grupo***: Lidia Velicia (@lidia-veli); Ana García (@anagarciasaiz); Lucia Mielgo (@lmiel); Jone Vega del Río (@JoneVdr); María González (@mgonzalz)
 
-**Repositorio**
+## Repositorio
 
 En el repositorio se incluyen:
     
@@ -16,7 +18,7 @@ En el repositorio se incluyen:
     
     4. Una carpeta con el enunciado del ejercicio.
 
-**Introducción**
+## Introducción
 
 En esta fase se ha realizado un estudio de viabilidad de un proyecto de negocio relativo al mundo sanitario, basado en kits rápidos de análisis sanguíneo para detectar enfermedades cardiovasculares desde su hogar. Se ha desarrollado todo el marketing del producto, así como un primer diseño de la futura página web mediante distintos tipos de mapas desarrollados con el software de Figma: https://www.figma.com/.
 
